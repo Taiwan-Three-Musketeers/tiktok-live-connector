@@ -11,7 +11,7 @@ const axios = require('axios').create({
 
 let config = {
     enabled: true,
-    signProviderHost: 'https://tiktok.eulerstream.com/',
+    signProviderHost: 'https://webcast.tiktok.com/',
     signProviderFallbackHosts: ['https://tiktok-sign.zerody.one/'],
     extraParams: {},
 };
